@@ -48,6 +48,7 @@ setup(name='zope.broken',
       install_requires=['setuptools',
                         'zope.interface',
                        ],
+      test_suite='zope.broken.tests.test_suite',
       include_package_data = True,
       zip_safe = False,
       )
