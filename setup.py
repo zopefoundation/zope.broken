@@ -20,7 +20,7 @@ def read(*rnames):
     return open(os.path.join(os.path.dirname(__file__), *rnames)).read()
 
 setup(name='zope.broken',
-      version = '3.6.1dev',
+      version='4.0.0',
       author='Zope Foundation and Contributors',
       author_email='zope-dev@zope.org',
       description='Zope Broken Object Interfaces',
