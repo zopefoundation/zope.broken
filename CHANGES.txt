@@ -1,8 +1,10 @@
 Changelog
 =========
 
-3.6.1 (unreleased)
+4.0.0 (unreleased)
 ------------------
+
+- Added support for Python 3.
 
 
 3.6.0 (2010-01-09)
